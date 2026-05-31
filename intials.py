@@ -1,3 +1,7 @@
+# File: initials.py
+# Description: Printing my intials "MSM" in block letters using python
+# Assignment Number: 2
+
 #Name: Menye Senam
 #Student ID: 2425402306
 #Email: 2425402306@live.gctu.edu.gh
